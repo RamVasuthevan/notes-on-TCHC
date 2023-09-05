@@ -1,0 +1,11 @@
+{
+    "name": "Python",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": []
+        }
+    },
+    "postCreateCommand": "pipenv sync --dev"
+}
