@@ -28,7 +28,9 @@ This is a collection of information about TCHC
 See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/annual-reports)
 
 ## Consolidated Financial Statements
-- [2021](./ConsolidatedFinancialStatements/backgroundfile-228291.pdf) ([permalink](https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-228291.pdf))
+- [2021](./ConsolidatedFinancialStatements/backgroundfile-228291.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-228291.pdf -->
+- [2020](./ConsolidatedFinancialStatements/backgroundfile-168505.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168508.pdf-->
+- [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
 
 ## Internal Audit reports
 
