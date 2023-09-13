@@ -26,3 +26,14 @@ This is a collection of information about TCHC
 - [2003](./AnnualReports/toronto_community_housing_annual_review_2003.pdf)
 
 See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/annual-reports)
+
+
+## Internal Audit reports
+
+- [2022](./InternalAuditReports/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
+- [2021](./InternalAuditReports/item_10_-_attachment_1_-_iad_2021_annual_report.pdf)
+- [2020](./InternalAuditReports/item_5_-_internal_audit_departments_annual_report_for_2020_cw_clean.pdf)
+- [2019](./InternalAuditReports/item_2d_-_q4_2019_iad_work_plan_update_-_aoda_updated.pdf)
+
+See: [Internal Audit reports](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
+
