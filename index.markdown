@@ -27,6 +27,9 @@ This is a collection of information about TCHC
 
 See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/annual-reports)
 
+## Consolidated Financial Statements
+- [2021](./ConsolidatedFinancialStatements/backgroundfile-228291.pdf) [permalink](https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-228291.pdf)
+
 
 ## Internal Audit reports
 
@@ -54,3 +57,5 @@ See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/tran
 - [2019](./EmployeeExpenses/employeeexpenses_2019.pdf)
 
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
+
+##
