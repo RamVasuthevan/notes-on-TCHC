@@ -2,7 +2,7 @@
     "filewatcher.commands": [
         {
             "match": "index.markdown",
-            "cmd": "./build.sh",
+            "cmd": "/workspaces/notes-on-TCHC/build.sh",
             "event": "onFileChange",
             "isAsync": true
         }
