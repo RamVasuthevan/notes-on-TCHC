@@ -45,11 +45,11 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2007](./ConsolidatedFinancialStatements/backgroundfile-15641.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2008/el/bgrd/backgroundfile-15641.pdf -->
 - [2006](./ConsolidatedFinancialStatements/backgroundfile-8815.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2007/ex/bgrd/backgroundfile-8815.pdf -->
 - [2005](./ConsolidatedFinancialStatements/it012.pdf) <!-- https://www.toronto.ca/legdocs/2006/agendas/committees/pof/pof060918/it028att3.pdf -->
-- [2004](./ConsolidatedFinancialStatements/it012.pdf) <!-- https://www.toronto.ca/legdocs/2005/agendas/committees/au/au050712/it012.pdf --> starts page 15
+- [2004](./ConsolidatedFinancialStatements/it012.pdf) <!-- https://www.toronto.ca/legdocs/2005/agendas/committees/au/au050712/it012.pdf --> Starts on page 15
 
 ## Additional Information Reported Annually to the Shareholder
 - [2020](./AdditionalInformationReportedShareholder/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168506.pdf -->
-- [2018]() <!-- https://www.toronto.ca/legdocs/mmis/2019/ex/bgrd/backgroundfile-134829.pdf --> starts page 46
+- [2018]() <!-- https://www.toronto.ca/legdocs/mmis/2019/ex/bgrd/backgroundfile-134829.pdf --> Starts on page 46
 - [2016](./AdditionalInformationReportedShareholder/backgroundfile-104684.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf --> Starts on page 18
 - [2005]() <!-- https://www.toronto.ca/legdocs/2006/agendas/committees/pof/pof060918/it028.pdf --> Page 13 
 
