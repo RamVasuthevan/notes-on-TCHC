@@ -1,9 +1,9 @@
 ---
 title: Notes on TCHC
 ---
-# TCHC
+# Toronto Community Housing Corporation
 
-This is a collection of TCHC documents  
+This is a collection about TCHC documents  
 
 ### Annual reports 
 
