@@ -39,10 +39,10 @@ See: [Internal Audit reports on TCHC website](https://www.torontohousing.ca/tran
 
 ## Board Expenses reports
 
-- [2022](./BoardExpenses/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
-- [2021](./BoardExpenses/item_10_-_attachment_1_-_iad_2021_annual_report.pdf)
-- [2020](./BoardExpenses/item_5_-_internal_audit_departments_annual_report_for_2020_cw_clean.pdf)
-- [2019](./BoardExpenses/item_2d_-_q4_2019_iad_work_plan_update_-_aoda_updated.pdf)
+- [2022](./BoardExpenses/boardexpenses_2022.pdf)
+- [2021](./BoardExpenses/boardexpenses_2021.pdf)
+- [2020](./BoardExpenses/boardexpenses_2020.pdf)
+- [2019](./BoardExpenses/boardexpenses_2019.pdf)
 
 [Board Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
