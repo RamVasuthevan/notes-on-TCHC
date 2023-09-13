@@ -29,10 +29,10 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 
 ## Consolidated Financial Statements
 - [2021](./ConsolidatedFinancialStatements/backgroundfile-228291.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-228291.pdf -->
-- [2020](./ConsolidatedFinancialStatements/backgroundfile-168505.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168508.pdf -->
-- [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
+- [2020](./ConsolidatedFinancialStatements/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168508.pdf -->
 - [2019](./ConsolidatedFinancialStatements/backgroundfile-157494.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-157494.pdf -->
 - [2018](./ConsolidatedFinancialStatements/backgroundfile-137931.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2019/au/bgrd/backgroundfile-137931.pdf -->
+- [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
 - [2016](/ConsolidatedFinancialStatements/backgroundfile-104685.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf-->
 - [2015](./ConsolidatedFinancialStatements/backgroundfile-94331.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2016/ex/bgrd/backgroundfile-94331.pdf -->
 - [2013](./ConsolidatedFinancialStatements/backgroundfile-70712.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2014/ex/bgrd/backgroundfile-70712.pdf -->
