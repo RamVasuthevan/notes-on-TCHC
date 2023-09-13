@@ -31,9 +31,13 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2021](./ConsolidatedFinancialStatements/backgroundfile-228291.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-228291.pdf -->
 - [2020](./ConsolidatedFinancialStatements/backgroundfile-168505.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168508.pdf-->
 - [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
+- [2019](./ConsolidatedFinancialStatements/backgroundfile-157494.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-157494.pdf -->
+- [2018](./ConsolidatedFinancialStatements/backgroundfile-137931.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2019/au/bgrd/backgroundfile-137931.pdf -->
+- [2015](./ConsolidatedFinancialStatements/backgroundfile-94331.pdf) <-- https://www.toronto.ca/legdocs/mmis/2016/ex/bgrd/backgroundfile-94331.pdf -->
 
 ## Additional Information Reported Annually to the Shareholder
 - [2020](./AdditionalInformationReportedShareholder/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168506.pdf -->
+- [2016](./AdditionalInformationReportedShareholder/backgroundfile-104684.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf --> Starts on page 18
 
 What is the diffrence between this report and the 2020 annual report?
 
