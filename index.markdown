@@ -44,5 +44,5 @@ See: [Internal Audit reports on TCHC website](https://www.torontohousing.ca/tran
 - [2020](./BoardExpenses/boardexpenses_2020.pdf)
 - [2019](./BoardExpenses/boardexpenses_2019.pdf)
 
-[Board Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
+See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
