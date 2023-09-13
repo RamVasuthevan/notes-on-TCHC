@@ -32,6 +32,14 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2020](./ConsolidatedFinancialStatements/backgroundfile-168505.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168508.pdf-->
 - [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
 
+## Additional Information Reported Annually to the Shareholder
+- [2020](./AdditionalInformationReportedShareholder/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168506.pdf -->
+
+What is the diffrence between this report and the 2020 annual report?
+
+## Shareholder Direction
+- [2020](./ShareholderDirection/backgroundfile-168510.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168510.pdf -->
+
 ## Internal Audit reports
 
 - [2022](./InternalAuditReports/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
