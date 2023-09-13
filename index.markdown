@@ -35,19 +35,25 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2018](./ConsolidatedFinancialStatements/backgroundfile-137931.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2019/au/bgrd/backgroundfile-137931.pdf -->
 - [2016](/ConsolidatedFinancialStatements/backgroundfile-104685.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf-->
 - [2015](./ConsolidatedFinancialStatements/backgroundfile-94331.pdf) <-- https://www.toronto.ca/legdocs/mmis/2016/ex/bgrd/backgroundfile-94331.pdf -->
-- [2009](./ConsolidatedFinancialStatements/backgroundfile-38137.pdf) <-- https://www.toronto.ca/legdocs/mmis/2011/ex/bgrd/backgroundfile-38137.pdf -->
-- [2008](./ConsolidatedFinancialStatements/backgroundfile-23385.pdf) <-- https://www.toronto.ca/legdocs/mmis/2009/au/bgrd/backgroundfile-23385.pdf -->
-- [2006](./ConsolidatedFinancialStatements/backgroundfile-8815.pdf) <-- https://www.toronto.ca/legdocs/mmis/2007/ex/bgrd/backgroundfile-8815.pdf -->
-
+- [2013]() <!-- https://www.toronto.ca/legdocs/mmis/2014/ex/bgrd/backgroundfile-70712.pdf -->
+- [2010]() <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44392.pdf -->
+- [2009](./ConsolidatedFinancialStatements/backgroundfile-38137.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2011/ex/bgrd/backgroundfile-38137.pdf -->
+- [2008](./ConsolidatedFinancialStatements/backgroundfile-23385.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2009/au/bgrd/backgroundfile-23385.pdf -->
+- [2007]() <!-- https://www.toronto.ca/legdocs/mmis/2008/el/bgrd/backgroundfile-15641.pdf -->
+- [2006](./ConsolidatedFinancialStatements/backgroundfile-8815.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2007/ex/bgrd/backgroundfile-8815.pdf -->
+- [2005]() <!-- https://www.toronto.ca/legdocs/2006/agendas/committees/pof/pof060918/it028att3.pdf -->
+- [2004]() <!-- https://www.toronto.ca/legdocs/2005/agendas/committees/au/au050712/it012.pdf --> starts page 15
 ## Additional Information Reported Annually to the Shareholder
 - [2020](./AdditionalInformationReportedShareholder/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168506.pdf -->
+- [2018]() <!-- https://www.toronto.ca/legdocs/mmis/2019/ex/bgrd/backgroundfile-134829.pdf --> starts page 46
 - [2016](./AdditionalInformationReportedShareholder/backgroundfile-104684.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf --> Starts on page 18
+- [2005]() <!-- https://www.toronto.ca/legdocs/2006/agendas/committees/pof/pof060918/it028.pdf --> Page 13 
 
 What is the diffrence between this report and the 2020 annual report?
 
 ## Shareholder Direction
 - [2020](./ShareholderDirection/backgroundfile-168510.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168510.pdf -->
-
+- [2001]() <!-- https://www.toronto.ca/legdocs/mmis/2011/cc/comm/communicationfile-20433.pdf -->
 ## Internal Audit reports
 
 - [2022](./InternalAuditReports/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
@@ -75,7 +81,8 @@ See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/tran
 
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
-## Award to PWC Audit for the City and Certain of its Agencies and Corporations
-- [2015-02-10](./Other/backgroundfile-92065.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2015/cc/bgrd/backgroundfile-92065.pdf -->
-
-Lists TCHC subsidiaries which are audited
+## Other Documents
+- [Award to PWC to Audit for the City and Certain of its Agencies and Corporations](./Other/backgroundfile-92065.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2015/cc/bgrd/backgroundfile-92065.pdf --> Lists TCHC subsidiaries which are audited
+- [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation]() <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44396.pdf -->
+- [Toronto Community Housing's Subsidiary Investments]() <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44393.pdf --> Page 4 has an org chart of subsidiaries
+- [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations]() <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-145364.pdf-- >
