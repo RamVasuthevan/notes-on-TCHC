@@ -1,5 +1,5 @@
 ---
-tite: Notes on TCHC
+title: Notes on TCHC
 ---
 # TCHC
 
