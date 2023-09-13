@@ -12,6 +12,6 @@ RUN pip install --upgrade pip && \
 
 # Installing system dependencies
 RUN apt-get update && \
-    apt-get install -y pandoc && \
+    apt-get install -y pandoc inotify-tools && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
