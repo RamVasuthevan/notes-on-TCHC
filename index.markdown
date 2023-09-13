@@ -82,7 +82,7 @@ See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/tran
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
 ## Other Documents
-- [Award to PWC to Audit for the City and Certain of its Agencies and Corporations](./Other/backgroundfile-92065.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2015/cc/bgrd/backgroundfile-92065.pdf --> Lists TCHC subsidiaries which are audited
-- [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation]() <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44396.pdf -->
+- [Award to PWC to Audit for the City and Certain of its Agencies and Corporations](./Other/backgroundfile-92065.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2015/cc/bgrd/backgroundfile-92065.pdf  --> Lists TCHC subsidiaries which are audited
+- [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation](./Other/backgroundfile-44396.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44396.pdf -->
 - [Toronto Community Housing's Subsidiary Investments]() <!-- https://www.toronto.ca/legdocs/mmis/2012/ex/bgrd/backgroundfile-44393.pdf --> Page 4 has an org chart of subsidiaries
-- [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations]() <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-145364.pdf-- >
+- [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations](./Other/backgroundfile-145364.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-145364.pdf -->
