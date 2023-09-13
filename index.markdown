@@ -33,7 +33,11 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2017](./ConsolidatedFinancialStatements/backgroundfile-116263.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2018/ex/bgrd/backgroundfile-116263.pdf -->
 - [2019](./ConsolidatedFinancialStatements/backgroundfile-157494.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2020/au/bgrd/backgroundfile-157494.pdf -->
 - [2018](./ConsolidatedFinancialStatements/backgroundfile-137931.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2019/au/bgrd/backgroundfile-137931.pdf -->
+- [2016](/ConsolidatedFinancialStatements/backgroundfile-104685.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2017/ex/bgrd/backgroundfile-104684.pdf-->
 - [2015](./ConsolidatedFinancialStatements/backgroundfile-94331.pdf) <-- https://www.toronto.ca/legdocs/mmis/2016/ex/bgrd/backgroundfile-94331.pdf -->
+- [2009](./ConsolidatedFinancialStatements/backgroundfile-38137.pdf) <-- https://www.toronto.ca/legdocs/mmis/2011/ex/bgrd/backgroundfile-38137.pdf -->
+- [2008](./ConsolidatedFinancialStatements/backgroundfile-23385.pdf) <-- https://www.toronto.ca/legdocs/mmis/2009/au/bgrd/backgroundfile-23385.pdf -->
+- [2006](./ConsolidatedFinancialStatements/backgroundfile-8815.pdf) <-- https://www.toronto.ca/legdocs/mmis/2007/ex/bgrd/backgroundfile-8815.pdf -->
 
 ## Additional Information Reported Annually to the Shareholder
 - [2020](./AdditionalInformationReportedShareholder/backgroundfile-168508.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2021/ex/bgrd/backgroundfile-168506.pdf -->
@@ -71,4 +75,7 @@ See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/tran
 
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
-##
+## Award to PWC Audit for the City and Certain of its Agencies and Corporations
+- [2015-02-10](./Other/backgroundfile-92065.pdf) <!-- https://www.toronto.ca/legdocs/mmis/2015/cc/bgrd/backgroundfile-92065.pdf -->
+
+Lists TCHC subsidiaries which are audited
