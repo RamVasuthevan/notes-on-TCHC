@@ -1,0 +1,10 @@
+{
+    "filewatcher.commands": [
+        {
+            "match": "index.markdown",
+            "cmd": "./build.sh",
+            "event": "onFileChange",
+            "isAsync": true
+        }
+    ]
+}
