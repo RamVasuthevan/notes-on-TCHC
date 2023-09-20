@@ -1,3 +1,3 @@
-# Notes on TCHC
+# Ram's Real Esate Site
 
-This is a work in progress collection of documents about TCHC
+This is a work in progress site about real esate mainly in Toronto
