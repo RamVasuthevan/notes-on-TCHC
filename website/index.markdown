@@ -1,5 +1,5 @@
 ---
-title: Notes on TCHC
+title: Toronto Community Housing Corporation
 ---
 # Toronto Community Housing Corporation
 
