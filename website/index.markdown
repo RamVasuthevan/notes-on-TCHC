@@ -74,10 +74,10 @@ See: [Internal Audit reports on TCHC website](https://www.torontohousing.ca/tran
 See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
 ## Employee Expenses reports
-- [2022](./documents/toronto-community-housing-corporation/EmployeeExpenses/Employee-expenses_2022.pdf)
-- [2021](./documents/toronto-community-housing-corporation/EmployeeExpenses/employeeexpenses_2021.pdf)
-- [2020](./documents/toronto-community-housing-corporation/EmployeeExpenses/employeeexpenses_2020.pdf)
-- [2019](./documents/toronto-community-housing-corporation/EmployeeExpenses/employeeexpenses_2019.pdf)
+- [2022](./documents/toronto-community-housing-corporation/employee-expenses/Employee-expenses_2022.pdf)
+- [2021](./documents/toronto-community-housing-corporation/employee-expenses/employeeexpenses_2021.pdf)
+- [2020](./documents/toronto-community-housing-corporation/employee-expenses/employeeexpenses_2020.pdf)
+- [2019](./documents/toronto-community-housing-corporation/employee-expenses/employeeexpenses_2019.pdf)
 
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
