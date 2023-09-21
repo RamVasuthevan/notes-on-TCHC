@@ -54,22 +54,22 @@ See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency
 - [2005](./documents/toronto-community-housing-corporation/additional-information-reported-shareholder/)
 
 ## Shareholder Direction
-- [2020](./documents/toronto-community-housing-corporation/ShareholderDirection/backgroundfile-168510.pdf)
-- [2001](./documents/toronto-community-housing-corporation/ShareholderDirection/communicationfile-20433.pdf)
+- [2020](./documents/toronto-community-housing-corporation/shareholder-direction/backgroundfile-168510.pdf)
+- [2001](./documents/toronto-community-housing-corporation/shareholder-direction/communicationfile-20433.pdf)
 
 ## Internal Audit reports
-- [2022](./documents/toronto-community-housing-corporation/InternalAuditReports/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
-- [2021](./documents/toronto-community-housing-corporation/InternalAuditReports/item_10_-_attachment_1_-_iad_2021_annual_report.pdf)
-- [2020](./documents/toronto-community-housing-corporation/InternalAuditReports/item_5_-_internal_audit_departments_annual_report_for_2020_cw_clean.pdf)
-- [2019](./documents/toronto-community-housing-corporation/InternalAuditReports/item_2d_-_q4_2019_iad_work_plan_update_-_aoda_updated.pdf)
+- [2022](./documents/toronto-community-housing-corporation/internal-audit-reports/item_11b_-_attachment_1_-_internal_audit_department_annual_report_for_2022_final.pdf)
+- [2021](./documents/toronto-community-housing-corporation/internal-audit-reports/item_10_-_attachment_1_-_iad_2021_annual_report.pdf)
+- [2020](./documents/toronto-community-housing-corporation/internal-audit-reports/item_5_-_internal_audit_departments_annual_report_for_2020_cw_clean.pdf)
+- [2019](./documents/toronto-community-housing-corporation/internal-audit-reports/item_2d_-_q4_2019_iad_work_plan_update_-_aoda_updated.pdf)
 
 See: [Internal Audit reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
 ## Board Expenses reports
-- [2022](./documents/toronto-community-housing-corporation/BoardExpenses/boardexpenses_2022.pdf)
-- [2021](./documents/toronto-community-housing-corporation/BoardExpenses/boardexpenses_2021.pdf)
-- [2020](./documents/toronto-community-housing-corporation/BoardExpenses/boardexpenses_2020.pdf)
-- [2019](./documents/toronto-community-housing-corporation/BoardExpenses/boardexpenses_2019.pdf)
+- [2022](./documents/toronto-community-housing-corporation/board-expenses/boardexpenses_2022.pdf)
+- [2021](./documents/toronto-community-housing-corporation/board-expenses/boardexpenses_2021.pdf)
+- [2020](./documents/toronto-community-housing-corporation/board-expenses/boardexpenses_2020.pdf)
+- [2019](./documents/toronto-community-housing-corporation/board-expenses/boardexpenses_2019.pdf)
 
 See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
