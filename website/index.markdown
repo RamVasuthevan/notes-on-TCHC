@@ -1,5 +1,5 @@
 ---
-title: Note on TCHC
+title: Notes on TCHC
 ---
 # Toronto Community Housing Corporation
 
@@ -7,26 +7,26 @@ This is a collection about TCHC documents
 
 ## Annual reports 
 
-- [2022](./documents/toronto-community-housing-corporation/AnnualReports/Toronto%20Community%20Housing%20Annual%20Report%202022_0.pdf)
-- [2021](./documents/toronto-community-housing-corporation/AnnualReports/tchc_annual_report_2021.pdf)
-- [2020](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2020.pdf)
-- [2019](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2019.pdf)
-- [2018](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2018.pdf)
-- [2017](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2017.pdf)
-- [2016](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2016.pdf)
-- [2015](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2015.pdf)
-- [2014](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2014.pdf)
-- [2013](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2013_0.pdf)
-- [2012](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2012.pdf)
-- [2011](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_report_2011.pdf)
+- [2022](./documents/toronto-community-housing-corporation/annual-reports/Toronto%20Community%20Housing%20Annual%20Report%202022_0.pdf)
+- [2021](./documents/toronto-community-housing-corporation/annual-reports/tchc_annual_report_2021.pdf)
+- [2020](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2020.pdf)
+- [2019](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2019.pdf)
+- [2018](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2018.pdf)
+- [2017](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2017.pdf)
+- [2016](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2016.pdf)
+- [2015](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2015.pdf)
+- [2014](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2014.pdf)
+- [2013](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2013_0.pdf)
+- [2012](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2012.pdf)
+- [2011](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_report_2011.pdf)
 - Why is there no 2010 Report?
-- [2009](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2009.pdf)
-- [2008](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2008.pdf)
-- [2007](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2007.pdf)
-- [2006](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2006.pdf)
-- [2005](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2005.pdf)
-- [2004](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2004.pdf)
-- [2003](./documents/toronto-community-housing-corporation/AnnualReports/toronto_community_housing_annual_review_2003.pdf)
+- [2009](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2009.pdf)
+- [2008](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2008.pdf)
+- [2007](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2007.pdf)
+- [2006](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2006.pdf)
+- [2005](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2005.pdf)
+- [2004](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2004.pdf)
+- [2003](./documents/toronto-community-housing-corporation/annual-reports/toronto_community_housing_annual_review_2003.pdf)
 
 See: [Annual Reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/annual-reports)
 
