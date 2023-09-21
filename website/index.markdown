@@ -82,7 +82,7 @@ See: [Board Expenses reports on TCHC website](https://www.torontohousing.ca/tran
 See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/transparency/reporting/financial-reporting)
 
 ## Other Documents
-- [Award to PWC to Audit for the City and Certain of its Agencies and Corporations](./documents/toronto-community-housing-corporation/Other/backgroundfile-92065.pdf)
-- [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation](./documents/toronto-community-housing-corporation/Other/backgroundfile-44396.pdf)
-- [Toronto Community Housing's Subsidiary Investments](./documents/toronto-community-housing-corporation/Other/backgroundfile-44393.pdf)
-- [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations](./documents/toronto-community-housing-corporation/Other/backgroundfile-145364.pdf)
+- [Award to PWC to Audit for the City and Certain of its Agencies and Corporations](./documents/toronto-community-housing-corporation/other/backgroundfile-92065.pdf)
+- [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation](./documents/toronto-community-housing-corporation/other/backgroundfile-44396.pdf)
+- [Toronto Community Housing's Subsidiary Investments](./documents/toronto-community-housing-corporation/other/backgroundfile-44393.pdf)
+- [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations](./documents/toronto-community-housing-corporation/other/backgroundfile-145364.pdf)
