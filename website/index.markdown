@@ -1,7 +1,6 @@
 ---
 title: Toronto Community Housing Corporation
 ---
-# Toronto Community Housing Corporation
 
 This is a collection about TCHC documents  
 
