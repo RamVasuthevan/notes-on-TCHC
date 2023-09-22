@@ -2,7 +2,7 @@
     "filewatcher.commands": [
         {
             "match": "website/index.markdown",
-            "cmd": "/workspaces/Real-Estate/clubber/build.sh",
+            "cmd": "/workspaces/Real-Estate/clubber/build",
             "event": "onFileChange",
             "isAsync": true
         }
