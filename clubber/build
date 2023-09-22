@@ -6,21 +6,34 @@ cd "$(dirname "$0")"
 # Move up one directory to the parent
 cd ..
 
-echo $(pwd)
+echo "Current directory: $(pwd)"
 
 # Ensure _site directory exists
 mkdir -p website/_site
 
 # Copy style.css to the _site directory
-cp website/template/style.css website/_site/
+cp website/_templates/style.css website/_site/
 
 # Run pandoc for each markdown file in the website directory
 for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
+    output_file="website/_site/$base.html"
     /usr/bin/pandoc "$file" --standalone --from=markdown --to=html \
-        --include-in-header=website/template/head.html \
-        --include-before-body=website/template/header.html \
-        --include-after-body=website/template/footer.html \
-        --output="website/_site/$base.html" --css=style.css
+        --include-in-header=website/_templates/head.html \
+        --include-before-body=website/_templates/header.html \
+        --include-after-body=website/_templates/footer.html \
+        --output="$output_file" --css=style.css
+done
+
+# Copy files and folders in website that are not in a folder starting with _
+# and are not .markdown files
+find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -print | while IFS= read -r file; do
+    # If the file is not already in _site, copy it there
+    if [[ ! "$file" == website/_site* ]]; then
+        dest=${file#website/} # Remove the 'website/' prefix
+        dest_dir=$(dirname "$dest")
+        mkdir -p "website/_site/$dest_dir" # Ensure the destination directory exists
+        cp "$file" "website/_site/$dest"
+    fi
 done
