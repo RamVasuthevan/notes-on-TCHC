@@ -6,7 +6,7 @@ cd "$(dirname "$0")"
 # Move up one directory to the parent
 cd ..
 
-echo $(pwd)
+echo "Current directory: $(pwd)"
 
 # Ensure _site directory exists
 mkdir -p website/_site
@@ -18,9 +18,21 @@ cp website/template/style.css website/_site/
 for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
+    output_file="website/_site/$base.html"
+    
     /usr/bin/pandoc "$file" --standalone --from=markdown --to=html \
         --include-in-header=website/template/head.html \
         --include-before-body=website/template/header.html \
         --include-after-body=website/template/footer.html \
-        --output="website/_site/$base.html" --css=style.css
+        --output="$output_file" --css=style.css
+    
+    echo "Modifying $output_file"
+    
+    echo "Before replacement:"
+    grep '<meta name="generator"' "$output_file"
+    
+    sed -i 's|<meta name="generator" content="pandoc" />|<meta name="generator" content="clubber (pandoc)" />|g' "$output_file"
+    
+    echo "After replacement:"
+    grep '<meta name="generator"' "$output_file"
 done
