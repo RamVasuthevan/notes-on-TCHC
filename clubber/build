@@ -18,5 +18,9 @@ cp website/template/style.css website/_site/
 for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
-    /usr/bin/pandoc "$file" --standalone --from=markdown --to=html --include-in-header=website/template/header.html --output="website/_site/$base.html" --css=style.css
+    /usr/bin/pandoc "$file" --standalone --from=markdown --to=html \
+        --include-in-header=website/template/head.html \
+        --include-before-body=website/template/header.html \
+        --include-after-body=website/template/footer.html \
+        --output="website/_site/$base.html" --css=style.css
 done

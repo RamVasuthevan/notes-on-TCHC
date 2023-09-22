@@ -1,7 +1,7 @@
 {
     "filewatcher.commands": [
         {
-            "match": "website/index.markdown",
+            "match": "website/*",
             "cmd": "/workspaces/Real-Estate/clubber/build",
             "event": "onFileChange",
             "isAsync": true
