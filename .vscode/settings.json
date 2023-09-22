@@ -5,6 +5,12 @@
             "cmd": "/workspaces/Real-Estate/clubber/build",
             "event": "onFileChange",
             "isAsync": true
+        },
+        {
+            "match": "clubber/*",
+            "cmd": "/workspaces/Real-Estate/clubber/build",
+            "event": "onFileChange",
+            "isAsync": true
         }
     ]
 }
