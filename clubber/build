@@ -1,10 +1,29 @@
 #!/bin/bash
 
-# Change to the directory where the script is located
-cd "$(dirname "$0")"
+# Navigate to the directory of the script
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-# Move up one directory to the parent
-cd ..
+# Move up two levels to the project root directory from the directory of the script
+cd "$DIR/../"
+
+# Ensure Pipenv is installed
+if ! command -v pipenv &> /dev/null
+then
+    echo "pipenv could not be found, installing..."
+    pip install pipenv
+fi
+
+which pandoc
+
+# Synchronize Pipenv
+pipenv sync --dev
+pipenv run install_pandoc
+
+which pandoc
+
+ls 
+
+find .
 
 echo "Current directory: $(pwd)"
 
