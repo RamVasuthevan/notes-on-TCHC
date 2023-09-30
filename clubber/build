@@ -7,9 +7,11 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$DIR/../"
 
 # Define the path to the pandoc .deb file and the directory where it will be extracted
-PANDOC_DEB_PATH="$DIR/../pandoc.deb"
+PANDOC_DEB_PATH="$DIR/../pandoc-3.1.8-1-amd64.deb"
 PANDOC_EXTRACT_DIR="$DIR/../pandoc_dir"
 PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
+
+
 
 # Ensure Pipenv is installed
 if ! command -v pipenv &> /dev/null
