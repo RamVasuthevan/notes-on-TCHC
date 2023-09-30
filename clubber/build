@@ -11,25 +11,24 @@ PANDOC_DEB_PATH="$DIR/../pandoc-3.1.8-1-amd64.deb"
 PANDOC_EXTRACT_DIR="$DIR/../pandoc_dir"
 PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
 
-
-
-# Ensure Pipenv is installed
-if ! command -v pipenv &> /dev/null
-then
-    echo "pipenv could not be found, installing..."
-    pip install pipenv
-fi
-
-# Synchronize Pipenv
-pipenv sync --dev
-
-# Check if the .deb file exists. If not, run install_pandoc
-if [ ! -f "$PANDOC_DEB_PATH" ]; then
-    pipenv run install_pandoc
-fi
-
-# Check if the pandoc executable exists. If not, extract it from the .deb file
+# Check if the pandoc executable exists. If not, check if the .deb file exists, and extract it.
 if [ ! -f "$PANDOC_PATH" ]; then
+    # Ensure Pipenv is installed
+    if ! command -v pipenv &> /dev/null
+    then
+        echo "pipenv could not be found, installing..."
+        pip install pipenv
+    fi
+    
+    # Synchronize Pipenv
+    pipenv sync --dev
+    
+    # If the .deb file doesn't exist, download it.
+    if [ ! -f "$PANDOC_DEB_PATH" ]; then
+        pipenv run install_pandoc
+    fi
+    
+    # Extract pandoc from the .deb file
     mkdir -p "$PANDOC_EXTRACT_DIR"
     dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
 fi
@@ -54,7 +53,7 @@ for file in website/*.markdown; do
         --output="$output_file" --css=style.css
 done
 
-# Copy files and folders in website that are not in a folder starting with _
+# Copy files and folders in the website that are not in a folder starting with _
 # and are not .markdown files
 find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -print | while IFS= read -r file; do
     # If the file is not already in _site, copy it there
