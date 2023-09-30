@@ -4,13 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pypandoc = "*"
 
 [dev-packages]
 pre-commit = "==3.4.0"
-
-[scripts]
-install_pandoc = "python -c 'from pypandoc.pandoc_download import download_pandoc; download_pandoc()'"
 
 [requires]
 python_version = "3.11.5"

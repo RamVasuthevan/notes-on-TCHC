@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "03d42d901c8585eacaa1a518378be7d6878f96d8984ec70db322887ed1ff3dc2"
+            "sha256": "362f78985e5428a1bdc181183fc34d8ffd374e6d609e5fbb2919640716450b66"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,17 +15,7 @@
             }
         ]
     },
-    "default": {
-        "pypandoc": {
-            "hashes": [
-                "sha256:7f6d68db0e57e0f6961bec2190897118c4d305fc2d31c22cd16037f22ee084a5",
-                "sha256:b260596934e9cfc6513056110a7c8600171d414f90558bf4407e68b209be8007"
-            ],
-            "index": "pypi",
-            "markers": "python_version >= '3.6'",
-            "version": "==1.11"
-        }
-    },
+    "default": {},
     "develop": {
         "cfgv": {
             "hashes": [

@@ -1,3 +1,2 @@
 website/_site/
-pandoc-3.1.8-1-amd64.deb
-pandoc_dir
+bin/pandoc_dir
