@@ -13,6 +13,7 @@ PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
 
 # Check if the pandoc executable exists. If not, check if the .deb file exists, and extract it.
 if [ ! -f "$PANDOC_PATH" ]; then
+    echo "Pandoc executable not found, installing..."
     # Ensure Pipenv is installed
     if ! command -v pipenv &> /dev/null
     then
