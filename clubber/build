@@ -3,8 +3,13 @@
 # Navigate to the directory of the script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-# Move up two levels to the project root directory from the directory of the script
+# Move up to the project root directory from the directory of the script
 cd "$DIR/../"
+
+# Define the path to the pandoc .deb file and the directory where it will be extracted
+PANDOC_DEB_PATH="$DIR/../pandoc.deb"
+PANDOC_EXTRACT_DIR="$DIR/../pandoc_dir"
+PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
 
 # Ensure Pipenv is installed
 if ! command -v pipenv &> /dev/null
@@ -13,17 +18,19 @@ then
     pip install pipenv
 fi
 
-which pandoc
-
 # Synchronize Pipenv
 pipenv sync --dev
-pipenv run install_pandoc
 
-which pandoc
+# Check if the .deb file exists. If not, run install_pandoc
+if [ ! -f "$PANDOC_DEB_PATH" ]; then
+    pipenv run install_pandoc
+fi
 
-ls 
-
-find .
+# Check if the pandoc executable exists. If not, extract it from the .deb file
+if [ ! -f "$PANDOC_PATH" ]; then
+    mkdir -p "$PANDOC_EXTRACT_DIR"
+    dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
+fi
 
 echo "Current directory: $(pwd)"
 
@@ -38,7 +45,7 @@ for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
     output_file="website/_site/$base.html"
-    /usr/bin/pandoc "$file" --standalone --from=markdown --to=html \
+    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html \
         --include-in-header=website/_templates/head.html \
         --include-before-body=website/_templates/header.html \
         --include-after-body=website/_templates/footer.html \
