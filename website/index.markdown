@@ -1,5 +1,5 @@
 ---
-title: Ram's Real Esate Site
+title: Ram's Real Estate Site
 ---
 
 
