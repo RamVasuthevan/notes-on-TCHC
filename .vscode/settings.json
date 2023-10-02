@@ -1,8 +1,14 @@
 {
     "filewatcher.commands": [
         {
-            "match": "index.markdown",
-            "cmd": "/workspaces/notes-on-TCHC/build.sh",
+            "match": "website/*",
+            "cmd": "/workspaces/Real-Estate/clubber/build",
+            "event": "onFileChange",
+            "isAsync": true
+        },
+        {
+            "match": "clubber/*",
+            "cmd": "/workspaces/Real-Estate/clubber/build",
             "event": "onFileChange",
             "isAsync": true
         }
