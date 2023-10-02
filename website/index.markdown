@@ -1,5 +1,5 @@
 ---
-title: Ram's Real Esate Blog
+title: Ram's Real Esate Site
 ---
 
 
