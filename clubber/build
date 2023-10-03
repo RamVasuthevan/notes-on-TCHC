@@ -14,8 +14,6 @@ PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
 # Check if the pandoc executable exists. If not, extract it from the .deb file.
 if [ ! -f "$PANDOC_PATH" ]; then
     echo "Pandoc executable not found, extracting..."
-    
-    # Extract pandoc from the .deb file
     mkdir -p "$PANDOC_EXTRACT_DIR"
     dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
 fi
@@ -28,22 +26,35 @@ mkdir -p website/_site
 # Copy style.css to the _site directory
 cp website/_templates/style.css website/_site/
 
-# Run pandoc for each markdown file in the website directory
-for file in website/*.markdown; do
-    filename=$(basename -- "$file")
-    base="${filename%.*}"
-    output_file="website/_site/$base.html"
-    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html \
-        --include-in-header=website/_templates/head.html \
-        --include-before-body=website/_templates/header.html \
-        --include-after-body=website/_templates/footer.html \
-        --output="$output_file" --css=style.css
+# Define the path to the template
+TEMPLATE_PATH="website/_templates/document_template.html"
+
+# Convert metadata files to HTML
+find website/documents -type f \( -name 'metadata.md' -o -name 'metadata.markdown' \) | while IFS= read -r metadata_file; do
+    # Extract the directory and base name to create corresponding HTML file in _site
+    dir=${metadata_file#website/} # Remove the 'website/' prefix
+    dir_no_ext="${dir%.*}"
+    output_file="website/_site/$dir_no_ext.html"
+    
+    # Ensure the output directory exists
+    mkdir -p $(dirname "$output_file")
+    
+    # Use pandoc to convert metadata to HTML using the template
+    "$PANDOC_PATH" "$metadata_file" --template "$TEMPLATE_PATH" --to html --output "$output_file"
 done
 
-# Copy files and folders in the website that are not in a folder starting with _
-# and are not .markdown files
+# Convert other markdown files in website to HTML
+find website -maxdepth 1 -type f -name '*.markdown' | while IFS= read -r md_file; do
+    base=$(basename -- "$md_file")
+    base_no_ext="${base%.*}"
+    output_file="website/_site/$base_no_ext.html"
+    
+    # Use pandoc to convert markdown to HTML
+    "$PANDOC_PATH" "$md_file" --to html --output "$output_file"
+done
+
+# Copy non-markdown files from website to _site directory
 find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -print | while IFS= read -r file; do
-    # If the file is not already in _site, copy it there
     if [[ ! "$file" == website/_site* ]]; then
         dest=${file#website/} # Remove the 'website/' prefix
         dest_dir=$(dirname "$dest")
