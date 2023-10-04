@@ -1,8 +1,9 @@
 ---
 title: WIP DMS
+layout: "page"
 ---
 
-This is a WIP DMS Tests
+This is a WIP DMS Test
 
 
 ## Consolidated Financial Statements
