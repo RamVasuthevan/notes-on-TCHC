@@ -9,3 +9,7 @@ title: Interesting Article
 ### 56 Housing Tenures in Oakland, CA
     - [Ownership Matters](https://alexschafran.substack.com/p/ownership-matters)
     - [Housing Vulnerability Analysis - Project Tenures](https://projecttenurehome.wordpress.com/oakland-pilot-study/)
+
+
+### Sidewalk Garden
+    - [https://zachklein.com/Sidewalk+Garden](https://zachklein.com/Currently)
