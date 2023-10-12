@@ -16,3 +16,8 @@ title: Interesting Article
 
 ### Maps of Vancour:
     - [MountainMath](https://mountainmath.ca/)
+
+### Union station 
+    - [Creative Mixed-Use Case Studies:Union Station](https://infrastructureinstitute.ca/case-union-station/)
+    > In 2000, the City of Toronto purchased the station building from Toronto Terminals Railway, while GO Transit purchased the railway corridor and the Union Station train shed. In 2003, the City agreed to lease Union Station to Union Pearson AirLink Group, a subsidiary of SNC-Lavalin, for 100 years.
+    - Wait, what? Who owns Union station?
