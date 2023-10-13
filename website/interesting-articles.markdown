@@ -14,7 +14,7 @@ title: Interesting Article
 ### Sidewalk Garden
     - [Sidewalk Garden](https://zachklein.com/Currently)
 
-### Maps of Vancour:
+### Maps of Vancouver:
     - [MountainMath](https://mountainmath.ca/)
 
 ### Union station 
