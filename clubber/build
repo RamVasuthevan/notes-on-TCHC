@@ -33,7 +33,7 @@ for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
     output_file="website/_site/$base.html"
-    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html \
+    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html --from=markdown_strict \
         --include-in-header=website/_templates/head.html \
         --include-before-body=website/_templates/header.html \
         --include-after-body=website/_templates/footer.html \
