@@ -1,26 +1,46 @@
 #!/bin/bash
 
+exit 0 # Disable the build script
+# Function to set up Pandoc
+ensure_pandoc_setup() {
+    # Define the path to the pandoc .deb file and the directory where it will be extracted
+    local PANDOC_DEB_PATH="$(find bin -type f -name 'pandoc*.deb' -print -quit)"
+    local PANDOC_EXTRACT_DIR="bin/pandoc_dir"
+    local PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
+
+    # Check if the pandoc executable exists. If not, extract it from the .deb file.
+    if [ ! -f "$PANDOC_PATH" ]; then
+        echo "Pandoc executable not found, extracting..."
+        
+        # Extract pandoc from the .deb file
+        mkdir -p "$PANDOC_EXTRACT_DIR"
+        dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
+    fi
+
+    # Add pandoc directory to PATH so it can be called directly
+    export PATH="$PANDOC_EXTRACT_DIR/usr/bin:$PATH"
+}
+
+# Extract the layout value from the front matter of a markdown file
+extract_layout() {
+    local file="$1"
+    # Use awk to extract the layout value from the front matter
+    awk '/^layout:/ {print $2; exit}' "$file"
+}
+
+# Get name of changed file
+changed_file="$1"
+echo "Changed file: $changed_file"
+
 # Navigate to the directory of the script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PARENT_DIR="$(dirname "$DIR")"  # Get the parent directory based on the script's location
 
 # Move to the project root directory from the directory of the script
-cd "$DIR/../"
+cd "$PARENT_DIR"
 
-# Define the path to the pandoc .deb file and the directory where it will be extracted
-PANDOC_DEB_PATH="$(find bin -type f -name 'pandoc*.deb' -print -quit)"
-PANDOC_EXTRACT_DIR="bin/pandoc_dir"
-PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
-
-# Check if the pandoc executable exists. If not, extract it from the .deb file.
-if [ ! -f "$PANDOC_PATH" ]; then
-    echo "Pandoc executable not found, extracting..."
-    
-    # Extract pandoc from the .deb file
-    mkdir -p "$PANDOC_EXTRACT_DIR"
-    dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
-fi
-
-echo "Current directory: $(pwd)"
+# Call the function to set up Pandoc
+ensure_pandoc_setup
 
 # Ensure _site directory exists
 mkdir -p website/_site
@@ -33,16 +53,26 @@ for file in website/*.markdown; do
     filename=$(basename -- "$file")
     base="${filename%.*}"
     output_file="website/_site/$base.html"
-    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html --from=markdown_strict \
-        --include-in-header=website/_templates/head.html \
-        --include-before-body=website/_templates/header.html \
-        --include-after-body=website/_templates/footer.html \
+
+    # Extract the layout value from the front matter
+    layout=$(extract_layout "$file")
+    
+    # Check if the layout value exists and the corresponding template file exists
+    if [[ -n "$layout" && -f "website/_templates/$layout.html" ]]; then
+        template="website/_templates/$layout.html"
+    else
+        echo "Error: Template for layout '$layout' not found in $file."
+        exit 1
+    fi
+    
+    pandoc "$file" --standalone --from=markdown --to=html \
+        --template="$template" \
         --output="$output_file" --css=style.css
 done
 
-# Copy files and folders in the website that are not in a folder starting with _
-# and are not .markdown files
-find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -print | while IFS= read -r file; do
+# Copy files and folders in the website that are not in folders starting with _
+# and are not .markdown or .md files
+find website -type d \( -name '_*' -prune \) -o -type f ! \( -name '*.markdown' -o -name '*.md' \) -print | while IFS= read -r file; do
     # If the file is not already in _site, copy it there
     if [[ ! "$file" == website/_site* ]]; then
         dest=${file#website/} # Remove the 'website/' prefix
@@ -51,3 +81,23 @@ find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -pr
         cp "$file" "website/_site/$dest"
     fi
 done
+
+# Convert the absolute path of the changed file to a relative one
+relative_changed_file="${changed_file#$PARENT_DIR/}"
+
+# If the changed file is within the website directory
+if [[ "$relative_changed_file" =~ ^website/.* ]]; then
+    # Determine the corresponding path in the _site directory
+    site_file="website/_site/${relative_changed_file#website/}"
+    echo "Site file: $site_file"
+    
+    # If that file exists in the _site directory, delete it
+    if [[ -e "$site_file" ]]; then
+        rm "$site_file"
+    fi
+
+    # If the changed file exists in the website directory, copy it to the _site directory
+    if [[ -e "$changed_file" ]]; then
+        cp "$changed_file" "$site_file"
+    fi
+fi
