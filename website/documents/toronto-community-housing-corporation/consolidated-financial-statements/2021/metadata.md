@@ -1,6 +1,7 @@
 ---
 date: 2021
-title: Consolidated Financial Statements of TORONTO COMMUNITY HOUSING CORPORATION And Independent Auditors' Report thereon Year ended December 31, 2021 
+title: TCHC 2021 Consolidated Financial Statements
+document_title: Consolidated Financial Statements of TORONTO COMMUNITY HOUSING CORPORATION And Independent Auditors' Report thereon Year ended December 31, 2021 
 author: KPMG
 organization: 
   City of Toronto:
