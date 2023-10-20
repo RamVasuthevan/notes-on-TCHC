@@ -26,3 +26,6 @@ title: Interesting Article
 
 ## Mizrahi Development Group (The One) Inc. et al Receivership 
 - [Mizrahi Development Group (The One) Inc. et al | Alvarez & Marsal](https://www.alvarezandmarsal.com/theone) vis [Urban Cayman](https://twitter.com/ProjectEND/status/1714992578678968412)
+
+## Master Plans in Toronto
+- [20 YEARS: Mastering the Master Plan in Toronto](https://urbantoronto.ca/news/2023/10/20-years-mastering-master-plan-toronto.53937)
