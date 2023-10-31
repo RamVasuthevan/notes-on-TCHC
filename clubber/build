@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Running $0..."
 
-rm _site
+rm -r _site/
 
-pandocomatic -c clubber/pandocomatic.yaml -i website -o _site
+pandocomatic -c clubber/pandocomatic.yaml -i website -o _site # --modified-only
