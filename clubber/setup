@@ -11,6 +11,7 @@ echo "Setting up Pandoc..."
 #sudo dpkg -i "$VENDOR_DIR"/pandoc*.deb
 dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" .
 export PATH="${VENDOR_DIR}/usr/bin:${PATH}"
+pandoc -v 
 echo "Pandoc setup completed."
 
 echo "Setting up Pandocomatic"
