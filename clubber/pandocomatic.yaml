@@ -1,0 +1,7 @@
+templates:
+  default:
+    glob: ['*.md','*.markdown']
+    pandoc:
+      from: markdown
+      to: html
+      standalone: true

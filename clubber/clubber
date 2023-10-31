@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Determine the directory where the clubber script is located
+CLUBBER_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Execute the corresponding script based on the argument
+if [ "$1" == "setup" ]; then
+    "$CLUBBER_DIR/setup"
+elif [ "$1" == "build" ]; then
+    "$CLUBBER_DIR/build"
+elif [ "$1" == "deploy" ]; then
+    "$CLUBBER_DIR/deploy"
+else
+    echo "Invalid command. Use 'setup', 'build', or 'deploy'."
+fi

@@ -1,5 +1,7 @@
 ---
 title: Ram's Real Estate Site
+pandocomatic_:
+    use-template: default
 ---
 
 
