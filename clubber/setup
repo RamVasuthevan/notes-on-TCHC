@@ -8,7 +8,7 @@ VENDOR_DIR="${DIR}/../vendor"
 
 # Ensure the vendor directory exists and contains the pandoc*.deb file
 echo "Setting up Pandoc..."
-sudo dpkg -i "$VENDOR_DIR"/pandoc*.deb
+dpkg -i "$VENDOR_DIR"/pandoc*.deb
 echo "Pandoc setup completed."
 
 echo "Setting up Pandocomatic"
