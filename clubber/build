@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "Running $0..."
 
-rm -r _site/
+if [ -d "_site/" ]; then
+    rm -r _site/
+fi
 
 pandocomatic -c clubber/pandocomatic.yaml -i website -o _site # --modified-only
