@@ -12,6 +12,8 @@ sudo dpkg -i "$VENDOR_DIR"/pandoc*.deb
 echo "Pandoc setup completed."
 
 echo "Setting up Pandocomatic"
+cd clubber
 bundle install
+cd ..
 echo "Pandocomatic setup completed"
 
