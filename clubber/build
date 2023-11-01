@@ -1,6 +1,12 @@
 #!/bin/bash
 echo "Running $0..."
 
+# Get the directory of the currently executing script
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# Define the path to the vendor directory where the pandoc*.deb file is located
+VENDOR_DIR="${DIR}/../vendor"
+export PATH="$VENDOR_DIR/pandoc/usr/bin:$PATH"
+
 if [ -d "_site/" ]; then
     rm -r _site/
 fi
