@@ -10,8 +10,8 @@ VENDOR_DIR="${DIR}/../vendor"
 echo "Setting up Pandoc..."
 dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" $VENDOR_DIR
 
-# Update PATH and make it available for all commands in the script
-export PATH="${VENDOR_DIR}/usr/bin:${PATH}"
+# Move pandoc binary to a directory in PATH
+sudo mv "${VENDOR_DIR}/usr/bin/pandoc" /usr/local/bin/
 
 # Test pandoc installation
 pandoc -v 
