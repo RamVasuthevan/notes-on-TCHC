@@ -10,7 +10,8 @@ VENDOR_DIR="${DIR}/../vendor"
 echo "Setting up Pandoc..."
 #sudo dpkg -i "$VENDOR_DIR"/pandoc*.deb
 dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" $VENDOR_DIR
-export PATH="${VENDOR_DIR}/usr/bin:${PATH}"
+#export PATH="${VENDOR_DIR}/usr/bin:${PATH}"
+export PATH=$PATH:$(pwd)/vendor/pandoc_directory
 pandoc -v 
 echo "Pandoc setup completed."
 
