@@ -9,7 +9,7 @@ VENDOR_DIR="${DIR}/../vendor"
 # Ensure the vendor directory exists and contains the pandoc*.deb file
 echo "Setting up Pandoc..."
 #sudo dpkg -i "$VENDOR_DIR"/pandoc*.deb
-dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" .
+dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" $VENDOR_DIR
 export PATH="${VENDOR_DIR}/usr/bin:${PATH}"
 pandoc -v 
 echo "Pandoc setup completed."
