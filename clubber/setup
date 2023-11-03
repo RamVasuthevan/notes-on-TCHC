@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Get the directory of the currently executing script
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Define the path to the vendor directory where the pandoc*.deb file is located
+VENDOR_DIR="${DIR}/../vendor"
+
+# Extract pandoc
+echo "Setting up Pandoc..."
+mkdir vendor/pandoc
+dpkg-deb -x "$VENDOR_DIR/pandoc-3.1.9-1-amd64.deb" $VENDOR_DIR/pandoc
+export PATH="$VENDOR_DIR/pandoc/usr/bin:$PATH"
+
+# Test pandoc installation
+pandoc -v 
+echo "Pandoc setup completed."
+echo $PATH
+
+# Setup Pandocomatic
+echo "Setting up Pandocomatic"
+cd clubber
+bundle install
+cd ..
+echo "Pandocomatic setup completed"

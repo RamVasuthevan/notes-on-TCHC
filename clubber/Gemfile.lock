@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    optimist (3.0.1)
+    pandocomatic (1.1.1)
+      optimist (~> 3.0.0, >= 3.0.0)
+      paru (~> 1.1, >= 1.1.2)
+    paru (1.1.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  pandocomatic (~> 1.1, >= 1.1.1)
+
+BUNDLED WITH
+   2.4.10

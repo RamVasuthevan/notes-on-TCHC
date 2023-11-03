@@ -1,53 +1,14 @@
 #!/bin/bash
+echo "Running $0..."
 
-# Navigate to the directory of the script
+# Get the directory of the currently executing script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# Define the path to the vendor directory where the pandoc*.deb file is located
+VENDOR_DIR="${DIR}/../vendor"
+export PATH="$VENDOR_DIR/pandoc/usr/bin:$PATH"
 
-# Move to the project root directory from the directory of the script
-cd "$DIR/../"
-
-# Define the path to the pandoc .deb file and the directory where it will be extracted
-PANDOC_DEB_PATH="$(find bin -type f -name 'pandoc*.deb' -print -quit)"
-PANDOC_EXTRACT_DIR="bin/pandoc_dir"
-PANDOC_PATH="$PANDOC_EXTRACT_DIR/usr/bin/pandoc"
-
-# Check if the pandoc executable exists. If not, extract it from the .deb file.
-if [ ! -f "$PANDOC_PATH" ]; then
-    echo "Pandoc executable not found, extracting..."
-    
-    # Extract pandoc from the .deb file
-    mkdir -p "$PANDOC_EXTRACT_DIR"
-    dpkg -x "$PANDOC_DEB_PATH" "$PANDOC_EXTRACT_DIR"
+if [ -d "_site/" ]; then
+    rm -r _site/
 fi
 
-echo "Current directory: $(pwd)"
-
-# Ensure _site directory exists
-mkdir -p website/_site
-
-# Copy style.css to the _site directory
-cp website/_templates/style.css website/_site/
-
-# Run pandoc for each markdown file in the website directory
-for file in website/*.markdown; do
-    filename=$(basename -- "$file")
-    base="${filename%.*}"
-    output_file="website/_site/$base.html"
-    "$PANDOC_PATH" "$file" --standalone --from=markdown --to=html \
-        --include-in-header=website/_templates/head.html \
-        --include-before-body=website/_templates/header.html \
-        --include-after-body=website/_templates/footer.html \
-        --output="$output_file" --css=style.css
-done
-
-# Copy files and folders in the website that are not in a folder starting with _
-# and are not .markdown files
-find website -type d \( -name '_*' -prune \) -o -type f ! -name '*.markdown' -print | while IFS= read -r file; do
-    # If the file is not already in _site, copy it there
-    if [[ ! "$file" == website/_site* ]]; then
-        dest=${file#website/} # Remove the 'website/' prefix
-        dest_dir=$(dirname "$dest")
-        mkdir -p "website/_site/$dest_dir" # Ensure the destination directory exists
-        cp "$file" "website/_site/$dest"
-    fi
-done
+pandocomatic -c clubber/pandocomatic.yaml -i website -o _site # --modified-only

@@ -1,0 +1,8 @@
+templates:
+  default:
+    glob: ['*.md','*.markdown']
+    pandoc:
+      from: markdown
+      to: html
+      standalone: true
+      include-before-body: clubber/include-before-body.html
