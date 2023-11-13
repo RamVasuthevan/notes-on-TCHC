@@ -1,5 +1,5 @@
 ---
-title: New York Offering Plans
+title: New York State Offering Plans
 ---
 
 In New Yorking, offering plans of condominiums and cooperatives must be filed with the NY State Attorney General.
