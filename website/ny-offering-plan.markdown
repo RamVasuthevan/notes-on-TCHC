@@ -4,6 +4,10 @@ title: New York State Offering Plans
 
 In New Yorking, offering plans of condominiums and cooperatives must be filed with the NY State Attorney General.
 
+Was mentioned in passing in Katherine Clarke's Billionaires' Row: Tycoons, High Rollers, and the Epic Race to Build the World's Most Exclusive Skyscrapers
+
+Think about it more, was also mentioned in passing in Francis J. Greenburger's Risk Game: Self Portrait of an Entrepreneur
+
 Is there a good search engine for these?
 
 
