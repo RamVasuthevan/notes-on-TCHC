@@ -8,3 +8,4 @@ Pages:
 - [Interesting Articles](interesting-articles.html)  
 - [TRREB and MLS](trreb-mls.html)  
 - [New York State Offering Plans](ny-offering-plan.html)
+- [Real Estate Designations](real-estate-designations.html)
