@@ -1,4 +1,5 @@
 {
     "name": "Clubber",
-    "postCreateCommand": "echo \"alias clubber='/workspaces/Real-Estate/clubber/clubber'\" >> ~/.bashrc && source ~/.bashrc && clubber setup"
+    "postCreateCommand": "echo \"alias clubber='/workspaces/Real-Estate/clubber/clubber'\" >> ~/.bashrc && source ~/.bashrc",
+    "postAttachCommand": "clubber setup"
 }
