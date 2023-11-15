@@ -9,5 +9,5 @@ cd "$SCRIPT_DIR"/..
 # Now navigate to the _site directory
 cd _site
 
-# Start the Python HTTP server on port 4002
-python -m http.server 4003
+# Start the Python HTTP server on port 4000
+python -m http.server 4000
