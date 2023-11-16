@@ -8,3 +8,4 @@ Pages:
 - [Interesting Articles](interesting-articles.html)  
 - [TRREB and MLS](trreb-mls.html)  
 - [New York State Offering Plans](ny-offering-plan.html)
+- [Religious Organizations' Lands Act](religious-organizations-lands-act.html)
