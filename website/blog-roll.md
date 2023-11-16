@@ -2,11 +2,13 @@
 title: Blog Roll
 ---
 
+# Blogs
 - [David Fleming's Toronto Realty Blog](https://torontorealtyblog.com/blog/)/ Also, see [Pick5](https://torontorealtyblog.com/pick5/)
 - [Construction Physics](https://www.construction-physics.com/)
 - [Ontario Condo Law](https://www.ontariocondolaw.com/)
-- [Brandon Donnelly](https://brandondonnelly.com/)
-- [Chris Whong](https://chriswhong.com/)
-Not a Blogs
+- [Brandon Donnelly's Blog](https://brandondonnelly.com/)
+- [Chris Whong's Blog](https://chriswhong.com/)
+
+# Not a Blogs
 - [Expropriation Law Centre](https://expropriation.ca/)
 - [CodeNews](https://www.codenews.ca/)
