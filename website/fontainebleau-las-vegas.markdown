@@ -1,4 +1,3 @@
-
 ---
 title:  Fontainebleau Las Vegas
 address: 2777 S Las Vegas Blvd, Las Vegas, NV 89109, USA
