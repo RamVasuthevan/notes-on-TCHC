@@ -10,3 +10,8 @@ Pages:
 - [New York State Offering Plans](ny-offering-plan.html)  
 - [Real Estate Designations](real-estate-designations.html)   
 - [Blog Roll](blog-roll.html)
+- [The battle for the Las Vegas Strip](battle-for-las-Vegas-strip.html)
+- [Fontainebleau Las Vegas](fontainebleau-las-vegas.html)
+- [Hotel X](hotel-x-toronto.html)
+- [Pickering Harbour Company](pickering-harbour-company.html)
+- [Granville Island](granville-island.html)
