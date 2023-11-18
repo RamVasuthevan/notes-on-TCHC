@@ -6,5 +6,5 @@ title: The Battle for Las Vegas
 - The ownership and management of the hotel-casinos has been separated
 - A REIT, VICI Properties was spun out of Caesars Entertainment in 2017. In 2022, VICI bought MGM Growth Properties which was spun MGM Resorts International in 2015
 
-See More:
+See More:  
 - [The Battle for Las Vegas-Youtube](https://www.youtube.com/watch?v=2dAp1PmhH8g) by [neo](https://www.youtube.com/@neoexplains)
