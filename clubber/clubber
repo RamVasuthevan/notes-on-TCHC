@@ -10,6 +10,8 @@ elif [ "$1" == "build" ]; then
     "$CLUBBER_DIR/build"
 elif [ "$1" == "deploy" ]; then
     "$CLUBBER_DIR/deploy"
+elif [ "$1" == "serve" ]; then
+    "$CLUBBER_DIR/serve"
 else
-    echo "Invalid command. Use 'setup', 'build', or 'deploy'."
+    echo "Invalid command. Use 'setup', 'build', 'deploy' or 'serve'."
 fi

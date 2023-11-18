@@ -1,4 +1,13 @@
 {
     "name": "Clubber",
-    "postCreateCommand": "echo \"alias clubber='/workspaces/Real-Estate/clubber/clubber'\" >> ~/.bashrc && source ~/.bashrc"
+    "postCreateCommand": "echo \"alias clubber='/workspaces/Real-Estate/clubber/clubber'\" >> ~/.bashrc && source ~/.bashrc",
+    "postAttachCommand": {
+        "server": "clubber setup && clubber build && clubber serve"
+    },
+    "portsAttributes": {
+        "4000": {
+            "label": "Application",
+            "onAutoForward": "openBrowser"
+        }
+    }
 }

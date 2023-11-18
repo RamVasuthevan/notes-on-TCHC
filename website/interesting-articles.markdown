@@ -32,3 +32,7 @@ title: Interesting Article
 
 ### A History of the Ontario Building Code
 - [A History of the Ontario Building Code](https://www.codenews.ca/OBC/OBC.html)
+
+### What Affordable Housing Actually Means
+- [What Affordable Housing Actually Means](https://darrellowens.substack.com/p/what-affordable-housing-actually)
+- [UC Berkeley’s Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
