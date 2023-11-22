@@ -15,3 +15,4 @@ Pages:
 - [Hotel X](hotel-x-toronto.html)  
 - [Pickering Harbour Company](pickering-harbour-company.html)  
 - [Granville Island](granville-island.html)  
+- [Ontario Regulation 73/23](ontario-regulation-73-23.html)
