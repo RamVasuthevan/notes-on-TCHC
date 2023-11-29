@@ -95,3 +95,6 @@ Here is a list of real estate designations according to [realtor.ca](https://www
 - National Commercial Real Estate Advisor
 - Certified Real Estate Investment Planning Specialist
 - Openn Certified Agent
+
+Why did I add this?
+- I was interested in getting a designations

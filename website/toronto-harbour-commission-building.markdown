@@ -16,3 +16,6 @@ The Toronto Harbour Commission Building seems to be 60 Harbour St, and the new b
     - [PortsToronto to Sell Head-Office Property at 30 Bay Street to Oxford Properties and CPPIB](https://www.portstoronto.com/portstoronto/media-room/news/portstoronto-to-sell-head-office-property-at-30-ba.aspx)
     - > PortsToronto today announced that it has sold its property at the corner of 30 Bay and 60 Harbour Streets to Oxford Properties Group (Oxford) and Canada Pension Plan Investment Board (CPPIB), who will each own a 50 per cent stake. ... The sale closed today and the transaction is valued at $96 million, a portion of which will be payable over the next three years.
     - What took so long?
+
+Why did I add this?
+- I see this building when I go for a walk
