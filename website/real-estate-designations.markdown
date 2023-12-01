@@ -97,4 +97,4 @@ Here is a list of real estate designations according to [realtor.ca](https://www
 - Openn Certified Agent
 
 Why did I add this?
-- I was interested in getting a designations
+- I was interested in getting a designation

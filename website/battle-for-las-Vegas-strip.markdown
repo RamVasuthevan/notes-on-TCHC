@@ -8,7 +8,7 @@ title: The Battle for Las Vegas
 
 Why did I add this?
 - Interesting to see the consolidation of the Vegas Strip and the separation of ownership and management of casinos
-- Reminded me of The Caesars Palace Coup by Max Frumes and Sujeet Indap recommend by [Jay Vasantharajah](https://x.com/jayvas/status/1396455782690983938?s=20)
+- Reminded me of The Caesars Palace Coup by Max Frumes and Sujeet Indap recommended by [Jay Vasantharajah](https://x.com/jayvas/status/1396455782690983938?s=20)
 
 See More:  
 - [The Battle for Las Vegas-Youtube](https://www.youtube.com/watch?v=2dAp1PmhH8g) by [neo](https://www.youtube.com/@neoexplains)

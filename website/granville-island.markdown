@@ -6,7 +6,7 @@ title:  Granville Island
 
 Why did I add this?
 - I've been to Granville Island
-- Why is Granville Island is administered by CMHC?
+- Why is Granville Island administered by CMHC?
 
 See More:  
 - [Busser (Granville Island)](https://careers.cmhc-schl.gc.ca/job/Vancouver-Busser-%28Granville-Island%29/567166117/)  
