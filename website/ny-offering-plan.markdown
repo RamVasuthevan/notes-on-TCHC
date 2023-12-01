@@ -10,6 +10,9 @@ Think about it more, was also mentioned in passing in Francis J. Greenburger's R
 
 Is there a good search engine for these?
 
+Why did I add this?
+- Open data about real esate?
+- An opportunity for a civic tech project?
 
 - [Adventures in FOIL: New York Condominium Offering Plans](https://chriswhong.com/local/adventures-in-foil-new-york-condominium-offering-plans/) 
     - Describes filing a freedom of information request for a offering plan in NYC in 2015
