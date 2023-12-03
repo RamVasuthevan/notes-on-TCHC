@@ -16,10 +16,14 @@ Looks like it was proposed in first in the [Parliament 38, Session 2](https://ww
 - [Inside Uber’s new Toronto Engineering Hub, with indoor mini putt, e-scooters and kombucha on tap](https://torontolife.com/style/inside-ubers-new-toronto-engineering-hub-with-indoor-mini-putt-e-scooters-and-kombucha-on-tap/)
 
 
+Why did I add this:
+- It's built on a ground lease
+- A law was passed to build this building
+
 See More:
-- http://tours.bizzimage.com/36903/121-bloor-street-east-toronto-on-m4w3m5
-- http://www.121blooreast.com/pdf/121BloorStreetEastJun2017.pdf (https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fwww.121blooreast.com%2F&rlz=1C5CHFA_enCA1070CA1072&oq=site%3Ahttp%3A%2F%2Fwww.121blooreast.com%2F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIMTM0NmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
-- https://www.toronto.ca/wp-content/uploads/2017/10/95ed-2017-177-121-Bloor-St.E..pdf
-- https://skyscraperpage.com/cities/?buildingID=54324
-- https://www.usgbc.org/projects/121-bloor-st-e
-- https://www.bce.ca/assets//mdu-ilm/121-bloor-st-e-toronto-ontario.pdf
+- [121 Bloor Street East Toronto, ON M4W3M5 — Bizz Image](http://tours.bizzimage.com/36903/121-bloor-street-east-toronto-on-m4w3m5)  
+- [121 Bloor Street East Jun 2017 Marketing Brochure](http://www.121blooreast.com/pdf/121BloorStreetEastJun2017.pdf)[site:http://www.121blooreast.com —  Google Search](https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fwww.121blooreast.com%2F&rlz=1C5CHFA_enCA1070CA1072&oq=site%3Ahttp%3A%2F%2Fwww.121blooreast.com%2F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIMTM0NmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)  
+- [Delegated Approval Forms - City of Toronto](https://www.toronto.ca/wp-content/uploads/2017/10/95ed-2017-177-121-Bloor-St.E..pdf)  
+- [121 Bloor East - Skyscraper Page](https://skyscraperpage.com/cities/?buildingID=54324)  
+- [121 Bloor St E - U.S. Green Building Council](https://www.usgbc.org/projects/121-bloor-st-e)  
+- [Lease Agreement from Bell Canada and Credit Suisse Real Estate Fund International (Canada) Leaseholds Inc](https://www.bce.ca/assets//mdu-ilm/121-bloor-st-e-toronto-ontario.pdf)  

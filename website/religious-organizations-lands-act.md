@@ -20,5 +20,9 @@ Is this a violation of Charter of Rights and Freedoms?
 
 Before 2009, the Religious Organizations' Lands Act prevented religious organizations from leasing lands for more than 40 years. In 2008, the [St. Andrew' s United Church (Toronto) Act, 2008, S.O. 2008, c. Pr2 - Bill Pr3](https://www.ontario.ca/laws/statute/pr08002) makes an expection for St. Andrew’s Congregation of The United Church of Canada at Toronto for 121 Bloor Street East
 
-- [Religious Organizations' Lands Act, R.S.O. 1990, c. R.23](https://www.ontario.ca/laws/statute/90r23)
-- [St. Andrew' s United Church (Toronto) Act, 2008, S.O. 2008, c. Pr2 - Bill Pr3](https://www.ontario.ca/laws/statute/pr08002)   
+Why did I add this?:
+- I am interested in how ownership of religious institutions works
+
+See More:
+- [Religious Organizations' Lands Act, R.S.O. 1990, c. R.23](https://www.ontario.ca/laws/statute/90r23)  
+- [St. Andrew' s United Church (Toronto) Act, 2008, S.O. 2008, c. Pr2 - Bill Pr3](https://www.ontario.ca/laws/statute/pr08002)     
