@@ -85,3 +85,7 @@ See: [Employee Expenses reports on TCHC website](https://www.torontohousing.ca/t
 - [Report on the eviction of Al Gosling and the Eviction Prevention Policy of Toronto Community Housing Corporation](./documents/toronto-community-housing-corporation/other/backgroundfile-44396.pdf)
 - [Toronto Community Housing's Subsidiary Investments](./documents/toronto-community-housing-corporation/other/backgroundfile-44393.pdf)
 - [Award to KPMG to Audit for the City and Certain of its Agencies and Corporations](./documents/toronto-community-housing-corporation/other/backgroundfile-145364.pdf)
+
+Why did I add this?
+- I am intresting in how TCHC works
+- Collection of documents about government entities 

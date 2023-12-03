@@ -30,6 +30,9 @@ title: Interesting Article
 ### Master Plans in Toronto
 - [20 YEARS: Mastering the Master Plan in Toronto](https://urbantoronto.ca/news/2023/10/20-years-mastering-master-plan-toronto.53937)
 
+### A History of the Ontario Building Code
+- [A History of the Ontario Building Code](https://www.codenews.ca/OBC/OBC.html)
+
 ### What Affordable Housing Actually Means
 - [What Affordable Housing Actually Means](https://darrellowens.substack.com/p/what-affordable-housing-actually)
 - [UC Berkeley’s Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
