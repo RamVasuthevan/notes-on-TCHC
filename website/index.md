@@ -9,4 +9,5 @@ Pages:
 - [TRREB and MLS](trreb-mls.html)  
 - [New York State Offering Plans](ny-offering-plan.html)  
 - [Real Estate Designations](real-estate-designations.html)   
-- [Blog Roll](blog-roll.html)
+- [Blog Roll](blog-roll.html)   
+- [Sheraton Centre Hotel](sheraton-centre-hotel.html)
