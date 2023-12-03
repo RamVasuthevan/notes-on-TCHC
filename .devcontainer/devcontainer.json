@@ -4,6 +4,13 @@
     "postAttachCommand": {
         "server": "clubber setup && clubber build && clubber serve"
     },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mathematic.vscode-pdf"
+            ]
+        }
+    },
     "portsAttributes": {
         "4000": {
             "label": "Application",
