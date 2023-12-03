@@ -15,4 +15,5 @@ Pages:
 - [Hotel X](hotel-x-toronto.html)  
 - [Pickering Harbour Company](pickering-harbour-company.html)  
 - [Granville Island](granville-island.html)  
-- [Interesting Real Estate ](interesting-real-estate.html)
+- [Interesting Real Estate](interesting-real-estate.html)  
+- [Interesting Topics to Add](topics-to-add.html)
