@@ -9,6 +9,7 @@ Pages:
 - [TRREB and MLS](trreb-mls.html)  
 - [New York State Offering Plans](ny-offering-plan.html)  
 - [Real Estate Designations](real-estate-designations.html)   
+- [Sheraton Centre Hotel](sheraton-centre-hotel.html)
 - [Blog Roll](blog-roll.html)  
 - [The Battle for the Las Vegas Strip](battle-for-las-Vegas-strip.html)  
 - [Fontainebleau Las Vegas](fontainebleau-las-vegas.html)  
