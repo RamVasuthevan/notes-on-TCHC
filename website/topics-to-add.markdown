@@ -3,27 +3,28 @@ title: Topics to Add
 ---
 
 ### NYC Hot Dog Stand Leases
-- https://www.youtube.com/watch?v=nzWDXhXkEQQ
+- [The $289,500 New York Hot Dog Stand License](https://www.youtube.com/watch?v=nzWDXhXkEQQ)
 
 ### Mustang, Texas is Owned by Mark Cuban
-- https://twitter.com/mcuban/status/1728870655092044138?t=KZX1fX-26VTV7EWCBlyvfw&s=19
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I own Mustang Texas</p>&mdash; Mark Cuban (@mcuban) <a href="https://twitter.com/mcuban/status/1728870655092044138?ref_src=twsrc%5Etfw">November 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### What are Mello-Roos/Community Facilities Districts
-- https://www.sdarcc.gov/content/arcc/home/divisions/assessor/mello-roos.html
+- [Mello-Roos—San Diego County's Assessor](https://www.sdarcc.gov/content/arcc/home/divisions/assessor/mello-roos.html)
 
 ### Express Mapping?
-- https://expressmapping.com/
+- [Express Mapping](https://expressmapping.com/)
 - Why does this bussiness exists? How do they get their data?
 
 ### Parcel Quest 
-- https://www.parcelquest.com/faqs/
+- [Parcel Quest](https://www.parcelquest.com/faqs/)
 - What data does Parcel Quests have?
 - Do you they have data from all of the California counties
 
 ### California Public Reports
-- > marketing new subdivisions in California, subdividers must obtain a public report from the DRE
+- > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
+- [Public Reports—California Department of Real Estate](https://www.dre.ca.gov/developers/publicreports.html) and [CPublic Reports—alifornia Builder Services](https://drepublicreports.com/)
 - Like NYC offering plans
-- What do they look like? Why do they exists?
+- Why do they exists? Is there a build download?
 
 ### Toronto Peason and National Airports Policy
 - https://cdn.torontopearson.com/-/media/project/pearson/content/corporate/who-we-are/pdfs/publications/ground-lease.pdf?modified=20190508161505&la=en
