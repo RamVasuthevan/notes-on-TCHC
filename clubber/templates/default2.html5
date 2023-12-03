@@ -1,3 +1,6 @@
+<nav style="text-align: right;">
+    <a href="/">Homepage</a>
+</nav>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
 <head>
@@ -69,12 +72,13 @@ $table-of-contents$
 </nav>
 $endif$
 $body$
+
 <div class="metadata-container">
     <h2>Document Information</h2>
-    <p><strong>Date:</strong> $date$</p>
-    <p><strong>Title:</strong> $title$</p>
+    <p><strong>Date:</strong> $document_date$</p>
+    <p><strong>Title:</strong> $document_title$</p>
     <p><strong>Document Title:</strong> $document_title$</p>
-    <p><strong>Author:</strong> $author$</p>
+    <p><strong>Author:</strong> $document_author$</p>
     <p><strong>Address:</strong> $address$</p>
     <p><strong>Document Path:</strong> $document$</p>
     <p><strong>Canonical Link:</strong> <a href="$canonical_link$">$canonical_link$</a></p>
@@ -87,6 +91,7 @@ $body$
         </ul>
     </p>
 </div>
+
 $for(include-after)$
 $include-after$
 $endfor$

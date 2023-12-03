@@ -12,7 +12,7 @@ templates:
     glob: ['*.md','*.markdown']
     pandoc:
       from: markdown
-      to: htmlx
+      to: html
       standalone: true
       include-before-body: clubber/templates/include-before-body.html
       template: clubber/templates/default.html5
