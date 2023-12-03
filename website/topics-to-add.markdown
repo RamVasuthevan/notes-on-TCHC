@@ -18,7 +18,7 @@ title: Topics to Add
 ### Parcel Quest 
 - [Parcel Quest](https://www.parcelquest.com/faqs/)
 - What data does Parcel Quests have?
-- Do you they have data from all of the California counties
+- Do you they have data from all of the California counties?
 
 ### California Public Reports
 - > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
@@ -27,5 +27,5 @@ title: Topics to Add
 - Why do they exists? Is there a build download?
 
 ### Toronto Peason and National Airports Policy
-- https://cdn.torontopearson.com/-/media/project/pearson/content/corporate/who-we-are/pdfs/publications/ground-lease.pdf?modified=20190508161505&la=en
-- https://en.wikipedia.org/wiki/National_Airports_Policy_(Canada)
+- [Pearson Airport Ground Lease](https://cdn.torontopearson.com/-/media/project/pearson/content/corporate/who-we-are/pdfs/publications/ground-lease.pdf?modified=20190508161505&la=en)
+- [National Airports Policy (Canada) — Wikipedia](https://en.wikipedia.org/wiki/National_Airports_Policy_(Canada))
