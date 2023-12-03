@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Absolute path to the directory where the script is located
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+
+# Navigate to the parent directory of where the script is located
+cd "$SCRIPT_DIR"/..
+
+# Now navigate to the _site directory
+cd _site
+
+# Start the Python HTTP server on port 4000
+python -m http.server 4000

@@ -1,0 +1,100 @@
+---
+title: Real Estate Designations
+---
+
+
+Here is a list of real estate designations according to [realtor.ca](https://www.realtor.ca/realtors/location)
+
+- Accredited Buyer Representative
+- Accredited Buyer Representative Manager
+- At Home With Diversity Certification
+- Accredited Land Consultant
+- Accredited Residential Manager®
+- Associate Reserve Planner
+- Certified Commercial Investment Member
+- Certified International Property Specialist
+- Certified Leasing Officer
+- Certified Manager of Condominiums
+- Certified Property Manager®
+- Certified Real Estate Specialist
+- Certified Real Estate Brokerage Manager
+- Counselor of Real Estate
+- Certified in Real Estate Finance
+- Certified Reserve Planner
+- Certified Residential Specialist®
+- Certified Residential Underwriter
+- REALTOR e-PRO®
+- Fellow of the Real Estate Institute
+- Fellow of the Real Estate Institute (Appraisal Specialist)
+- Fellow of the Real Estate Institute (Executive)
+- General Accredited Appraiser
+- Graduate REALTOR® Institute
+- Performance Management Network
+- Residential Accredited Appraiser
+- REALTOR® Association Certified Executive
+- Real Estate Professional Assistant
+- Accredited Appraiser Canadian Institute
+- Market Value Appraiser-Residential
+- Accredited Leasing Officer
+- Accredited Mortgage Professional
+- Accredited Senior Appraiser
+- Certified Valuation Analyst
+- Certified Mold Remediation
+- Certified Professional Residential Property Manager
+- Canadian Residential Appraiser
+- Fellows of the Royal Institution of Chartered Surveyors
+- Member, Appraisal Institute
+- Professional Land Economist
+- Real Property Administrator®
+- Society of Industrial and Office REALTORS®
+- Senior Residential Appraiser
+- Canadian Employee Relocation Professional
+- Canadian Employee Relocation Council Relocation Specialist™
+- Relocation Resort Specialist
+- Senior Real Estate Specialist
+- Certified Lease Professional Designation
+- Designated Agency Representatives
+- Distinguished Real Estate Instructor™
+- Unknown
+- Certified Condo Specialist
+- Canadian REALTOR® Association Executive
+- NAR's Green Designation
+- ACCREDITED GREENAGENT® -Residential
+- ACCREDITED GREENBROKER® - Commercial
+- EcoBroker®
+- Transnational Referral Certified
+- Certified Negotiation Expert
+- Member of the Royal Institute of Charter Surveyors
+- Certified Reserve Fund Planner
+- Accredited Staging Professional
+- Resort & Second-Home Property Specialist
+- Short Sales and Foreclose Resource
+- Business Corporation Owned by a Real Estate Broker
+- Canadian Personal Property Appraiser
+- Seller Representative Specialist
+- Accredited Senior Agent
+- Certified Luxury Home Marketing Specialist
+- Royal Institute of Chartered Surveyors
+- Accredited Commercial Professional
+- Master Certified Negotiation Expert
+- Associate of the Canadian Condominium Institute
+- Real Estate Negotiation Expert
+- Military Relocation Professional
+- Pricing Strategy Advisor
+- Accredited Luxury Home Specialist
+- Performance Management Network Designation
+- Certified in Marketing of Real Estate
+- Residential Construction Certified
+- Certified New Home Specialist
+- Chartered Accountant
+- Chartered Professional Accountant
+- Certified General Accountant
+- Certified Management Accountant
+- BoundaryWise
+- Chartered Financial Analyst
+- National Commercial Real Estate Advisor
+- Certified Real Estate Investment Planning Specialist
+- Openn Certified Agent
+
+Why did I add this?
+- I was interested in getting a designation
