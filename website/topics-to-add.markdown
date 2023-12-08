@@ -22,7 +22,7 @@ title: Topics to Add
 
 ### California Public Reports
 - > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
-- [Public Reports—California Department of Real Estate](https://www.dre.ca.gov/developers/publicreports.html) and [CPublic Reports—alifornia Builder Services](https://drepublicreports.com/)
+- [Public Reports—California Department of Real Estate](https://www.dre.ca.gov/developers/publicreports.html) and [DRE Public Reports—California Builder Services](https://drepublicreports.com/)
 - Like NYC offering plans
 - Why do they exists? Is there a build download?
 
