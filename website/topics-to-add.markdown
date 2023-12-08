@@ -32,4 +32,4 @@ title: Topics to Add
 
 ### What is American Legal Publishing?
 - What is their history and why do cities use them?
-- In Maximum New York [NYC Legislative Brief #0](https://www.maximumnewyork.com/p/nyc-legislative-brief-0), Daniel Golliher links to the [New York Charter on American Legal Publishing's website](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1)
+- In [Maximum New York NYC Legislative Brief #0](https://www.maximumnewyork.com/p/nyc-legislative-brief-0), Daniel Golliher links to the [New York Charter on American Legal Publishing's website](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1)
