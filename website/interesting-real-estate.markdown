@@ -15,3 +15,7 @@ title: Interesting Real Estate That doesn't already have a page
 ### University Walk NYC
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1993, Warren Buffett, Larry Silverstein, &amp; Fred Rose purchased &#39;University Walk&#39; through a foreclosure auction for $20.2 million, a 74k sf Greenwich Village retail property steps away from NYU<br><br>The redevelopment plan consisted of modernizing the facade to create a simplistic… <a href="https://t.co/UVXEwhJ2yB">https://t.co/UVXEwhJ2yB</a></p>&mdash; Conor H. (@c_huss) <a href="https://twitter.com/c_huss/status/1734308251561242688?ref_src=twsrc%5Etfw">December 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+###  Singh Tower 622-628 Summit Ave, Jersey City, NJ
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Found out this building will be called the Singh Tower. According to his website, the guy was a gas station attendant when he first immigrated to the US. Started out building Bayonne Boxes. Now this 29-story building. 209 apartments, no parking except for bikes. <a href="https://t.co/fnYyMP0Sqm">pic.twitter.com/fnYyMP0Sqm</a></p>&mdash; 回 (@3_under_scores_) <a href="https://twitter.com/3_under_scores_/status/1729265392974282792?ref_src=twsrc%5Etfw">November 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
