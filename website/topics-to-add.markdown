@@ -22,10 +22,14 @@ title: Topics to Add
 
 ### California Public Reports
 - > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
-- [Public Reports—California Department of Real Estate](https://www.dre.ca.gov/developers/publicreports.html) and [CPublic Reports—alifornia Builder Services](https://drepublicreports.com/)
+- [Public Reports—California Department of Real Estate](https://www.dre.ca.gov/developers/publicreports.html) and [DRE Public Reports—California Builder Services](https://drepublicreports.com/)
 - Like NYC offering plans
 - Why do they exists? Is there a build download?
 
 ### Toronto Peason and National Airports Policy
 - [Pearson Airport Ground Lease](https://cdn.torontopearson.com/-/media/project/pearson/content/corporate/who-we-are/pdfs/publications/ground-lease.pdf?modified=20190508161505&la=en)
 - [National Airports Policy (Canada) — Wikipedia](https://en.wikipedia.org/wiki/National_Airports_Policy_(Canada))
+
+### What is American Legal Publishing?
+- What is their history and why do cities use them?
+- In [Maximum New York NYC Legislative Brief #0](https://www.maximumnewyork.com/p/nyc-legislative-brief-0), Daniel Golliher links to the [New York Charter on American Legal Publishing's website](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1)
