@@ -14,7 +14,7 @@ title: Topics to Add
 ### Why do these companies exist? What do they do?
  - [Express Mapping](https://expressmapping.com/)
  - [Parcel Quest](https://www.parcelquest.com/faqs/)
- - [Canopy Mapping Co.](https://www.canopymapping.co/)
+ - [Canopy Mapping Co](https://www.canopymapping.co/)
 
 ### California Public Reports
 - > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
