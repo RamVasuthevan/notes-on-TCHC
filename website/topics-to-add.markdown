@@ -11,14 +11,10 @@ title: Topics to Add
 ### What are Mello-Roos/Community Facilities Districts
 - [Mello-Roos—San Diego County's Assessor](https://www.sdarcc.gov/content/arcc/home/divisions/assessor/mello-roos.html)
 
-### Express Mapping?
-- [Express Mapping](https://expressmapping.com/)
-- Why does this bussiness exists? How do they get their data?
-
-### Parcel Quest 
-- [Parcel Quest](https://www.parcelquest.com/faqs/)
-- What data does Parcel Quests have?
-- Do you they have data from all of the California counties?
+### Why do these companies exist? What do they do?
+ - [Express Mapping](https://expressmapping.com/)
+ - [Parcel Quest](https://www.parcelquest.com/faqs/)
+ - [Canopy Mapping Co.](https://www.canopymapping.co/)
 
 ### California Public Reports
 - > Marketing new subdivisions in California, subdividers must obtain a public report from the DRE
