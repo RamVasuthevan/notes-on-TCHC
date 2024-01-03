@@ -9,6 +9,7 @@ title: Blog Roll
 - [Brandon Donnelly's Blog](https://brandondonnelly.com/)
 - [Chris Whong's Blog](https://chriswhong.com/)
 - Daniel Golliher's [Maximum New York](https://www.maximumnewyork.com/) and his personal [blog](https://blog.danielgolliher.com/)
+- [I Quant NY](https://iquantny.tumblr.com/)
 
 # Not a Blogs
 - [Expropriation Law Centre](https://expropriation.ca/)
