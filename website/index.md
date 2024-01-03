@@ -20,5 +20,6 @@ Pages:
 - [Granville Island](granville-island.html)  
 - [Grosvenor Group](grosvenor-estate.html)  
 - [Interesting Real Estate](interesting-real-estate.html)  
-- [Interesting Topics to Add](topics-to-add.html)
-- [More London Complex](more-london-complex.html)
+- [Interesting Topics to Add](topics-to-add.html)  
+- [City Hall, London (Southwark)](city-hall-london-southwark.html)  
+- [Izmirlian Family](izmirlian-family.html)
