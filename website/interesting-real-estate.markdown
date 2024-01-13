@@ -19,3 +19,8 @@ title: Interesting Real Estate That doesn't already have a page
 ###  Singh Tower 622-628 Summit Ave, Jersey City, NJ
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Found out this building will be called the Singh Tower. According to his website, the guy was a gas station attendant when he first immigrated to the US. Started out building Bayonne Boxes. Now this 29-story building. 209 apartments, no parking except for bikes. <a href="https://t.co/fnYyMP0Sqm">pic.twitter.com/fnYyMP0Sqm</a></p>&mdash; 回 (@3_under_scores_) <a href="https://twitter.com/3_under_scores_/status/1729265392974282792?ref_src=twsrc%5Etfw">November 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Pro Forma for a project in the Greater Victoria Area
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a project in the Greater Victoria Area, where we have two active projects underway, so we have very good real time data on rents, construction costs, and operating costs.</p>&mdash; Kendal Harazny (@khzny) <a href="https://twitter.com/khzny/status/1676647300712759296?ref_src=twsrc%5Etfw">July 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
