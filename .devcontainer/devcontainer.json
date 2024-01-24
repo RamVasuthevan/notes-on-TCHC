@@ -1,5 +1,15 @@
 {
     "name": "Clubber",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.codespaces",
+                "GitHub.github-vscode-theme",
+                "GitHub.vscode-pull-request-github",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
     "postCreateCommand": "echo \"alias clubber='/workspaces/Real-Estate/clubber/clubber'\" >> ~/.bashrc && source ~/.bashrc",
     "postAttachCommand": {
         "server": "clubber setup && clubber build && clubber serve"
