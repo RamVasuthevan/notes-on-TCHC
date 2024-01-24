@@ -1,14 +1,20 @@
 #!/bin/bash
+
 echo "Running $0..."
 
 # Get the directory of the currently executing script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
 # Define the path to the vendor directory where the pandoc*.deb file is located
 VENDOR_DIR="${DIR}/../vendor"
+
+# Add Pandoc to path
 export PATH="$VENDOR_DIR/pandoc/usr/bin:$PATH"
 
+# Remove _site if it exists
 if [ -d "_site/" ]; then
     rm -r _site/
 fi
 
+# Builds site using pandocomatic
 pandocomatic -c clubber/pandocomatic.yaml -i website -o _site # --modified-only
