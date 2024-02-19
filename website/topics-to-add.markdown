@@ -29,4 +29,6 @@ title: Topics to Add
 
 ### What is American Legal Publishing?
 - What is their history and why do cities use them?
-- In [Maximum New York NYC Legislative Brief #0](https://www.maximumnewyork.com/p/nyc-legislative-brief-0), Daniel Golliher links to the [New York Charter on American Legal Publishing's website](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1)
+- In [Some Infernal Metaphors for Understanding NYC's Government](https://www.maximumnewyork.com/p/infernal-metaphors-for-government#footnote-8-64810962) footnote 8, Daniel Golliher says of American Legal Publishing's publishing of the [New York City Charter](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCcharter/0-0-0-1):
+
+> For NYC this is laid out primarily, but not entirely, in our city charter, which is published and updated for the public by a seemingly random publishing company in Cincinnati, OH. It’s hundreds of pages that our legislators don’t take any care to make easily legible (not even to themselves). Nonetheless, I am not deterred.  
